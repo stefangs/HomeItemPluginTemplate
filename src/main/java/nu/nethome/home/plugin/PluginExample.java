@@ -1,4 +1,4 @@
-package nu.nethome.home.plugin; /**
+/**
  * Copyright (C) 2005-2013, Stefan Strömberg <stestr@nethome.nu>
  *
  * This file is part of OpenNetHome.
@@ -16,7 +16,7 @@ package nu.nethome.home.plugin; /**
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-
+package nu.nethome.home.plugin;
 import nu.nethome.home.item.HomeItem;
 import nu.nethome.home.item.HomeItemAdapter;
 import nu.nethome.util.plugin.Plugin;

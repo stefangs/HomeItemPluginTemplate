@@ -1,0 +1,14 @@
+./devkit/*
+./default.xml
+
+#IDEA
+./target
+*.iml
+*.ipr
+*.iws
+
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
